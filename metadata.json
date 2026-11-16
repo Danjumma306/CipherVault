@@ -1,0 +1,6 @@
+{
+  "name": "CipherVault",
+  "description": "Zero-trust secure file-sharing platform with AES-256-GCM encryption at rest, SHA-256 integrity verification, bcrypt authentication, and JWT RBAC/ACL enforcement.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
